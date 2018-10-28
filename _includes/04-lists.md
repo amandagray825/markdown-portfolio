@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+*PC Gaming
+  *Elder Scrolls Online
+*Reading
+  *Jane Austen
+  *Charles Dickens
+  *Leo Tolstoy
+  *Books on Programming
+*YouTube
+  *Influencers 
